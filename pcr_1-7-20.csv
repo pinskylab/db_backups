@@ -1,4 +1,4 @@
-"pcr_id","date","pool_id","rxns","index","vol_rxns","quant","bp","nmol_L","product","water","SEQ","notes","bait_id"
+"pcr_id","date","pool_id",rxns,index,vol_rxns,quant,bp,nmol_L,product,water,"SEQ","notes","bait_id"
 "P001","2014-02-05","",4,1,NULL,0.6,NULL,NULL,NULL,NULL,"SEQ01","sent to Nicole for sequencing paused for troubleshooting",NULL
 "P002","2014-03-04","",4,2,NULL,0.2,NULL,NULL,NULL,NULL,"N/A","surf clam only - test run",NULL
 "P003","2014-03-13","",0,2,NULL,NULL,NULL,NULL,NULL,NULL,"N/A","P2 adapter test run - bad F primer",NULL
